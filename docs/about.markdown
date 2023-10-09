@@ -9,4 +9,5 @@ The Secret Letter from Museum is a mobile-based AR game developed to teach the K
 This AR game is developed by Dr. Jayoung Song and Dr. Jungyeul Park. The initial version of this AR game is supported by the 2020 Korean Studies Grant Program of the Academy of Korean Studies (AKS-2020-R-39). This AR game is also funded by the Center for Advanced Language Proficiency Education and Research (CALPER), a Title VI Language Resource Center (LRC) at Penn State University. 
 
 languages: Korean, English
+
 Copyright: Jayoung Song & Jungyeul Park
